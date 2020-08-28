@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.text.NumberFormat;
 
 public class PaymentSchedule{
+    //Payment Schedule Mortgage Project
     final static byte MONTHS_IN_YEAR=12;
     final static byte PERCENT=100;
 
